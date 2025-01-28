@@ -1,0 +1,4 @@
+Flask
+Flask-SocketIO
+scapy
+geoip2
